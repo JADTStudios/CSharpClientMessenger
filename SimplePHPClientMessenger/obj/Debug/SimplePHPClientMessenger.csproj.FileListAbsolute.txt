@@ -1,0 +1,12 @@
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\bin\Debug\SimplePHPClientMessenger.exe.config
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\bin\Debug\SimplePHPClientMessenger.exe
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\bin\Debug\SimplePHPClientMessenger.pdb
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\bin\Debug\Guna.UI2.dll
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.csprojAssemblyReference.cache
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.Messenger.resources
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.Properties.Resources.resources
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.csproj.GenerateResource.cache
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.csproj.CopyComplete
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.exe
+C:\Users\Landon\source\repos\SimplePHPClientMessenger\SimplePHPClientMessenger\obj\Debug\SimplePHPClientMessenger.pdb
