@@ -7,7 +7,7 @@ This requires a server...
 
 I recommend Centos 6
 
-Install apache and drag the php in /var/www/html
+Install apache and drag the php file in /var/www/html
 
 If you are using Centos, Enter this command:
 
