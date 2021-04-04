@@ -1,2 +1,2 @@
 # CSharpClientMessenger
-Uses PHP and C# to send and recieve messages!
+Uses PHP and C# to send and receive messages!
