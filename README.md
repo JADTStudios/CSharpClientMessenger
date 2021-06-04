@@ -11,6 +11,14 @@ Install apache and drag the php file in /var/www/html
 
 If you are using Centos, Enter this command:
 
+ls -l /etc/hosts 
+
+or 
+
+ps aux | grep apache
+
+then
+
 chown -R apache:apache /var/www/html
 
 # C# Setup
